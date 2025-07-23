@@ -1,1 +1,1 @@
-print("i am learning git + pyrhon")
+print("i am learning git + python")
